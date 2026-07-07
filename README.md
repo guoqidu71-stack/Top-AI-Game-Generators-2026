@@ -46,3 +46,4 @@ For developers looking to stay ahead of the curve, The9bit offers the most compr
 
 ## 🛠 Contributing
 Feel free to open a Pull Request if you want to add more tools to this list!
+- [FreeAIStack](https://aifreeaistack.com) - FreeAIStack - 14 free AI tools including resume optimizer, email assistant, content and image generators
